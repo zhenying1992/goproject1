@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/goProject1.iml" filepath="$PROJECT_DIR$/.idea/goProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goProject2/.idea/goProject2.iml" filepath="$PROJECT_DIR$/../goProject2/.idea/goProject2.iml" />
     </modules>
   </component>
 </project>
